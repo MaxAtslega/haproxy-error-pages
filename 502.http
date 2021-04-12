@@ -1,0 +1,6 @@
+HTTP/1.0 502 Bad Gateway
+Connection: close
+Cache-Control: no-cache
+Content-Type: text/html
+
+<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><title>502 Bad Gateway</title><link rel="preconnect" href="//fonts.gstatic.com"><meta name="viewport" content="width=device-width,initial-scale=1"><link href="//fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap" rel="stylesheet"><style>body{font-family:'Noto Sans JP',sans-serif;background-color:#161616;color:#fff;padding:0;margin:0}.container{display:flex;justify-content:center;align-items:center;flex-wrap:wrap;height:70vh;width:100%}.error{text-align:center}.error h1{position:relative;background:green;font-size:6em;border-radius:6px;padding:5px;margin:0 0 45px 0}.error h1:after{content:'';position:absolute;top:100%;right:calc(50% - 13px);border:13px solid transparent;border-top-color:green}.error p{margin:0 0 55px 0;display:inline-block;width:100%;font-size:25px}.error span{padding:14px 20px;background:#202020;border-radius:6px}.error a{color:#fff;text-decoration:none}.error a:hover{opacity:.87}</style></head><body><div class="container"><div class="error"><h1>502</h1><p>Bad Gateway</p><span><a href="mailto:contact@atslega.network">Contact us</a></span></div></div></body></html>
